@@ -1,0 +1,35 @@
+I'd also like you to provide the client with five business suggestions based on insights that you glean from your analysis.
+
+Some additional questions you might answer to help support your stance on sub-meters:
+
+    What are the typical power usage patterns for each sub-meter?
+    Are these "typical" patterns true for the time period in question?
+    If not, what, if anything, can be used to help support the use of sub-meters?
+    Are there any recommendations for questions we should be asking?
+
+Please package your recommendations as a PowerPoint presentation
+
+
+You are to create a PowerPoint report that will be presented to a management team and used to drive decisions about energy usage through analysis and forecasting.
+
+  1  Step One Visualizations with Analysis. Minimum of 3 consisting of Day, Week and a time period of your choice.
+  	2008 - water heater/AC consistantly higher through Q2/Q3. The months are warmer and the A/C is most likely running.  There are spikes that could be attributed to the Water Heater for showers but It's hard to discern unless the family takes 4 or more showers a day.  I would place the water heater and A/C on separate sub-meters in order to optimize energy consumption.  There is consistanty a period in the summer where the only power used is the Water heater/AC, most likely because the residents are away on vacation. The Laundry is also pretty consistant year round but lower during Q3(warm months), most likely the family is hang drying clothes and not using the tumble dryer.  The kitchen is used consistantly except during Q3 where the residents are most likely eating out when the weather is warm.  We also may be able to glean more data regarding the laundry room if the refridgerator was a separate sub-meter, as this is consistant year round, since the residence is climate controled. Also, separate the dishwasher from the cooking aparatuses to understand how much energy is used for cooking vs. cleaning.
+	
+	
+	2009 - Quarterly is fairly similar to 2008, the vacation was still in Q3.
+	
+  
+  DONE 2  Step Two Time Series Visualizations with Analysis. Minimum of 3 consisting of sub-meters 1, 2 and 3.
+  DONE 3  Step Three Linear Regression Forecast Visualizations with Analysis. Minimum of 3 consisting of sub-meters 1, 2 and 3. Also include the chart you built comparing the R2 and RMSE of each model.
+  DONE 4  Step Four Decomposition Visualizations with Analysis. Minimum of 3 consisting of sub-meters 1, 2 and 3. Also include the chart you built comparing the summary statistics for the seasonal, trend and remainder components from each decomposed object
+  DONE 5  Step Five Holt Winters Forecasting and Analysis. Minimum of 3 sets consisting of sub-meters 1, 2 and 3. Each set is composed from the forecast plot and plot containing only the forecasted area.
+  DONE 6  Any useful correlations or predictions you can glean from the data. If none can be found or if the relationships are weak, suggest other types of data you believe might be needed to improve the analysis
+  DONE 7  A summary statement that addresses the goal of this project. Has the goal been met? 
+  8  Five business recommendations you can suggest based on your visualization and analysis of the power consumption data. Include justifications of your recommendations
+  9  One or more slides discussing lessons learned.
+  
+  
+  7.sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It corresponds to the kitchen, containing mainly a dishwasher, an oven and a microwave (hot plates are not electric but gas powered).
+  8.sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
+  9.sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
+  
